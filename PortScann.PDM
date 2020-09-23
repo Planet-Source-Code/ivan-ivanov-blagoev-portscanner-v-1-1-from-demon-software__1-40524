@@ -1,0 +1,642 @@
+[Root]
+Most Recent Package=Demon PortScann v1.1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+c:\winnt\system32\mswstr10.dll=
+c:\program files\common files\microsoft shared\dao\dao360.dll=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\msjet40.dll=
+c:\winnt\system32\msrd2x40.dll=
+c:\winnt\system32\msrd3x40.dll=
+c:\winnt\system32\msrepl40.dll=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\vb5db.dll=
+c:\winnt\system32\msvbvm60.dll=
+c:\program files\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\winnt\system32\mswdat10.dll=
+
+[Package|Dep File 1|Files In Project]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=No
+C:\WINNT\system32\msjet40.dll=No
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\mswstr10.dll=No
+C:\WINNT\system32\mswdat10.dll=No
+C:\WINNT\system32\msrd2x40.dll=No
+C:\WINNT\system32\msrd3x40.dll=No
+C:\WINNT\system32\msrepl40.dll=No
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=No
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=$(AppPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=PortScann.CAB
+DepCabRun=PortScann.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+ProjectFolder=D:\Blagoev\Source\VB\WinSocks\PortScann
+ServerSideCab=
+File1=D:\Blagoev\Source\VB\WinSocks\PortScann\All\PortScann.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\winnt\system32\mswstr10.dll=
+c:\program files\common files\microsoft shared\dao\dao360.dll=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\msjet40.dll=
+c:\winnt\system32\msrd2x40.dll=
+c:\winnt\system32\msrd3x40.dll=
+c:\winnt\system32\msrepl40.dll=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\vb5db.dll=
+c:\winnt\system32\msvbvm60.dll=
+c:\program files\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\winnt\system32\mswdat10.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=No
+C:\WINNT\system32\msjet40.dll=No
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\mswstr10.dll=No
+C:\WINNT\system32\mswdat10.dll=No
+C:\WINNT\system32\msrd2x40.dll=No
+C:\WINNT\system32\msrd3x40.dll=No
+C:\WINNT\system32\msrepl40.dll=No
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=$(AppPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+
+[Package|Standard Setup Package 1|DepFile]
+DepCabFile=PortScann.CAB
+DepCabRun=PortScann.INF
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Project1
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Project1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Project1]
+Icon1=PortScann.exe
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+ProjectFolder=D:\Blagoev\Source\VB\WinSocks\PortScann
+ServerSideCab=
+File1=D:\Blagoev\Source\VB\WinSocks\PortScann\All\setup.exe
+File2=D:\Blagoev\Source\VB\WinSocks\PortScann\All\Setup.Lst
+File3=D:\Blagoev\Source\VB\WinSocks\PortScann\All\PortScann.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PortScann|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+
+[Package|PortScann|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PortScann|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PortScann|Files Found]
+
+[Package|PortScann|Files Released]
+
+[Package|PortScann|Missing Dependency Information]
+
+[Package|PortScann|Out-of-Date Dependency Information]
+
+[Package|PortScann|Files Added]
+
+[Package|PortScann|Files Removed]
+c:\winnt\system32\mswstr10.dll=
+c:\program files\common files\microsoft shared\dao\dao360.dll=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\msjet40.dll=
+c:\winnt\system32\msrd2x40.dll=
+c:\winnt\system32\msrd3x40.dll=
+c:\winnt\system32\msrepl40.dll=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\vb5db.dll=
+c:\winnt\system32\msvbvm60.dll=
+c:\program files\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\winnt\system32\mswdat10.dll=
+c:\winnt\system32\msjtes40.dll=
+c:\winnt\system32\msjter40.dll=
+c:\winnt\system32\msjint40.dll=
+
+[Package|PortScann|Files In Project]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=No
+C:\WINNT\system32\msjet40.dll=No
+C:\WINNT\system32\msjter40.dll=No
+C:\WINNT\system32\msjint40.dll=No
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\mswstr10.dll=No
+C:\WINNT\system32\mswdat10.dll=No
+C:\WINNT\system32\msrd2x40.dll=No
+C:\WINNT\system32\msrd3x40.dll=No
+C:\WINNT\system32\msrepl40.dll=No
+C:\WINNT\system32\msjtes40.dll=No
+C:\WINNT\system32\VB5DB.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|PortScann|Configure Registry Files]
+Applicable=No
+
+[Package|PortScann|Configure Remote Servers]
+Applicable=No
+
+[Package|PortScann|Install Locations]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=$(AppPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|PortScann|Configure Shared Files]
+Applicable=Yes
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+
+[Package|PortScann|DepFile]
+DepCabFile=PortScann.CAB
+DepCabRun=PortScann.INF
+
+[Package|PortScann|Distribution]
+Type=single
+Size=1.44 MB
+Title=PortScanner
+
+[Package|PortScann|Package]
+PackageFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+ProjectFolder=D:\Blagoev\Source\VB\WinSocks\PortScann
+ServerSideCab=
+File1=D:\Blagoev\Source\VB\WinSocks\PortScann\All\setup.exe
+File2=D:\Blagoev\Source\VB\WinSocks\PortScann\All\Setup.Lst
+File3=D:\Blagoev\Source\VB\WinSocks\PortScann\All\PortScann.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PortScann|IconGroups]
+Group0=Demon Software
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|PortScann|Demon Software]
+Icon1=PortScann.exe
+Title1=PortScanner
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Demon PortScann v1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+
+[Package|Demon PortScann v1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Demon PortScann v1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Demon PortScann v1.0|Files Found]
+
+[Package|Demon PortScann v1.0|Files Released]
+
+[Package|Demon PortScann v1.0|Missing Dependency Information]
+
+[Package|Demon PortScann v1.0|Out-of-Date Dependency Information]
+
+[Package|Demon PortScann v1.0|Files Added]
+
+[Package|Demon PortScann v1.0|Files Removed]
+c:\winnt\system32\mswstr10.dll=
+c:\program files\common files\microsoft shared\dao\dao360.dll=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\msjet40.dll=
+c:\winnt\system32\msjint40.dll=
+c:\winnt\system32\msjter40.dll=
+c:\winnt\system32\msjtes40.dll=
+c:\winnt\system32\msrd2x40.dll=
+c:\winnt\system32\msrd3x40.dll=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\mswdat10.dll=
+c:\winnt\system32\msvbvm60.dll=
+c:\program files\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\winnt\system32\msrepl40.dll=
+
+[Package|Demon PortScann v1.0|Files In Project]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=No
+C:\WINNT\system32\msjet40.dll=No
+C:\WINNT\system32\msjter40.dll=No
+C:\WINNT\system32\msjint40.dll=No
+C:\WINNT\system32\vbajet32.dll=No
+C:\WINNT\system32\expsrv.dll=No
+C:\WINNT\system32\mswstr10.dll=No
+C:\WINNT\system32\mswdat10.dll=No
+C:\WINNT\system32\msrd2x40.dll=No
+C:\WINNT\system32\msrd3x40.dll=No
+C:\WINNT\system32\msrepl40.dll=No
+C:\WINNT\system32\msjtes40.dll=No
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Demon PortScann v1.0|Configure Registry Files]
+Applicable=No
+
+[Package|Demon PortScann v1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|Demon PortScann v1.0|Install Locations]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=$(AppPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+
+[Package|Demon PortScann v1.0|Configure Shared Files]
+Applicable=Yes
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+
+[Package|Demon PortScann v1.0|DepFile]
+DepCabFile=PortScann.CAB
+DepCabRun=PortScann.INF
+
+[Package|Demon PortScann v1.0|Distribution]
+Type=single
+Size=1.44 MB
+Title=Demon PortScann v1.0
+
+[Package|Demon PortScann v1.0|Package]
+PackageFolder=D:\Blagoev\Source\VB\WinSocks\PortScann\All
+ProjectFolder=D:\Blagoev\Source\VB\WinSocks\PortScann
+ServerSideCab=
+File1=D:\Blagoev\Source\VB\WinSocks\PortScann\All\setup.exe
+File2=D:\Blagoev\Source\VB\WinSocks\PortScann\All\Setup.Lst
+File3=D:\Blagoev\Source\VB\WinSocks\PortScann\All\PortScann.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Demon PortScann v1.0|IconGroups]
+Group0=Demon Software
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Demon PortScann v1.0|Demon Software]
+Icon1=PortScann.exe
+Title1=Demon PortScann v1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Demon PortScann v1.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\Programs\Source\VB\WinSocks\PortScannV11\All
+
+[Package|Demon PortScann v1.1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Demon PortScann v1.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Demon PortScann v1.1|Files Found]
+
+[Package|Demon PortScann v1.1|Files Released]
+
+[Package|Demon PortScann v1.1|Missing Dependency Information]
+
+[Package|Demon PortScann v1.1|Out-of-Date Dependency Information]
+
+[Package|Demon PortScann v1.1|Files Added]
+
+[Package|Demon PortScann v1.1|Files Removed]
+c:\winnt\system32\mswstr10.dll=
+c:\program files\common files\microsoft shared\dao\dao360.dll=
+c:\winnt\system32\expsrv.dll=
+c:\winnt\system32\msjet40.dll=
+c:\winnt\system32\msjint40.dll=
+c:\winnt\system32\msjter40.dll=
+c:\winnt\system32\msjtes40.dll=
+c:\winnt\system32\msrd2x40.dll=
+c:\winnt\system32\msrd3x40.dll=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\mswdat10.dll=
+c:\winnt\system32\msvbvm60.dll=
+c:\program files\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\program files\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\program files\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\program files\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\vbajet32.dll=
+c:\winnt\system32\msrepl40.dll=
+d:\program files\common files\microsoft shared\dao\dao360.dll=
+d:\winnt\system32\expsrv.dll=
+d:\winnt\system32\msjet40.dll=
+d:\winnt\system32\msjint40.dll=
+d:\winnt\system32\msjter40.dll=
+d:\winnt\system32\msjtes40.dll=
+d:\winnt\system32\msrd2x40.dll=
+d:\winnt\system32\msrd3x40.dll=
+d:\winnt\system32\msrepl40.dll=
+d:\winnt\system32\mswstr10.dll=
+d:\winnt\system32\msstdfmt.dll=
+d:\winnt\system32\mswdat10.dll=
+
+[Package|Demon PortScann v1.1|Files In Project]
+E:\Programs\Source\VB\WinSocks\PortScannV11\PortScann.exe=Yes
+D:\WINNT\system32\MSVBVM60.DLL=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINNT\system32\MSWINSCK.OCX=Yes
+D:\WINNT\system32\MSSTDFMT.DLL=No
+D:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=No
+D:\WINNT\system32\msjet40.dll=No
+D:\WINNT\system32\msjter40.dll=No
+D:\WINNT\system32\msjint40.dll=No
+D:\WINNT\system32\vbajet32.dll=Yes
+D:\WINNT\system32\expsrv.dll=No
+D:\WINNT\system32\mswstr10.dll=No
+D:\WINNT\system32\mswdat10.dll=No
+D:\WINNT\system32\msrd2x40.dll=No
+D:\WINNT\system32\msrd3x40.dll=No
+D:\WINNT\system32\msrepl40.dll=No
+D:\WINNT\system32\msjtes40.dll=No
+D:\WINNT\system32\VB5DB.DLL=Yes
+D:\WINNT\system32\COMCTL32.OCX=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINNT\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Demon PortScann v1.1|Configure Registry Files]
+Applicable=No
+
+[Package|Demon PortScann v1.1|Configure Remote Servers]
+Applicable=No
+
+[Package|Demon PortScann v1.1|Install Locations]
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=$(AppPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+E:\Programs\Source\VB\WinSocks\PortScannV11\PortScann.exe=$(AppPath)
+D:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+D:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Demon PortScann v1.1|Configure Shared Files]
+Applicable=Yes
+D:\Blagoev\Source\VB\WinSocks\PortScann\PortScann.exe=Yes
+E:\Programs\Source\VB\WinSocks\PortScannV11\PortScann.exe=No
+
+[Package|Demon PortScann v1.1|DepFile]
+DepCabFile=PortScann.CAB
+DepCabRun=PortScann.INF
+
+[Package|Demon PortScann v1.1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Demon PortScann v1.1
+
+[Package|Demon PortScann v1.1|IconGroups]
+Group0=Demon Software
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Demon PortScann v1.1|Demon Software]
+Icon1=PortScann.exe
+Title1=Demon PortScann v1.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Demon PortScann v1.1|Package]
+PackageFolder=e:\Programs\Source\VB\WinSocks\PortScannV11\All
+ProjectFolder=E:\Programs\Source\VB\WinSocks\PortScannV11
+ServerSideCab=
+File1=e:\Programs\Source\VB\WinSocks\PortScannV11\All\setup.exe
+File2=e:\Programs\Source\VB\WinSocks\PortScannV11\All\Setup.Lst
+File3=e:\Programs\Source\VB\WinSocks\PortScannV11\All\PortScann.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
